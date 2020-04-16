@@ -1,3 +1,22 @@
+footer {
+    background-color: darkslategray;
+    padding: 10px;
+    color: lightgray;
+}
+
+.attribution {
+    font-size: 10px;
+}
+
+.contact-icon {
+    width: 75px;
+    height: 75px;
+}
+
+.contact-block {
+    float: left;
+}
+
 #header-logo {
     margin: auto;
 }
@@ -5,3 +24,4 @@
 #header-text {
     text-align: center;
 }
+
